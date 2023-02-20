@@ -5,7 +5,7 @@
 
 A mod loader for Jalopy.
 
-You can report any issues and/or ideas in the [Issues](https://github.com/theLeaxx/JalopyModLoader/issues) tab.
+You can report any issues and/or ideas in the [issues](https://github.com/theLeaxx/JalopyModLoader/issues) tab.
 
 ## Installation
 * Download the latest release from [here](https://github.com/theLeaxx/JalopyModLoader/releases)
