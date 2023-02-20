@@ -1,7 +1,7 @@
 # JalopyModLoader
 
-[![](https://img.shields.io/github/release/theLeaxx/JalopyModLoader.svg?style=flat-square)](#) 
-[![](https://img.shields.io/github/license/theLeaxx/JalopyModLoader.svg?style=flat-square)](#) 
+[![](https://img.shields.io/github/release/theLeaxx/JalopyModLoader.svg?)](#) 
+[![](https://img.shields.io/github/license/theLeaxx/JalopyModLoader.svg)](#) 
 
 A mod loader for Jalopy.
 
